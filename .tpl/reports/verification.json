@@ -1,0 +1,87 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-10-25T11:46:53.556Z",
+  "sourceCommit": "6af9f094fc24e47b1d410bd92c8aac04b3a4c7ba",
+  "sourceDigest": "f96cd82430268e324c7f2b287a93fdc91c457911cf6dbfd8b5b9e2d42ae211ca",
+  "environment": {
+    "platform": "linux",
+    "arch": "x64",
+    "node": "v24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": false,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-25T11:41:44.633Z",
+      "finishedAt": "2026-10-25T11:41:46.168Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-25T11:41:46.173Z",
+      "finishedAt": "2026-10-25T11:41:48.748Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-25T11:41:48.751Z",
+      "finishedAt": "2026-10-25T11:41:49.125Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-25T11:41:49.128Z",
+      "finishedAt": "2026-10-25T11:42:06.188Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-10-25T11:45:40.389Z",
+      "reason": "本机 WSL 生产实例通过 PORT=43519 隔离启动，六条路由200后停止本任务实例。"
+    }
+  ],
+  "limitations": [
+    "24 条双语路由覆盖1440、834、390、320 CSS视口；三端各4张截图记录真实像素尺寸，截图工具裁去滚动条。",
+    "已实测菜单、服务揭示、视频与离屏暂停、Logo焦点暂停恢复、案例和评价切换、表单本地校验及语言查询/锚点保留；未完成全部原站区块三端逐帧比较。",
+    "减少动态设置已实现，尚未通过系统偏好实测；原始图片内嵌英文尚未全部汉化。",
+    "按接入规范调整字体、标题字号、玻璃卡片、装饰箭头、品牌适配与演示表单语义；不声明像素或动效完全一致。",
+    "参考素材商业再分发许可未确认，listed=false、redistributionAllowed=false。"
+  ]
+}
