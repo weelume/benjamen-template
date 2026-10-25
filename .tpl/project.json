@@ -187,7 +187,7 @@
       },
       "port": {
         "env": "PORT",
-        "default": 43518
+        "default": 43510
       },
       "ready": {
         "kind": "http",
