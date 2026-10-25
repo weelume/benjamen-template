@@ -1,0 +1,595 @@
+[
+  {
+    "kind": "home",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 1000,
+    "path": "/",
+    "scrollWidth": 1425,
+    "videos": [
+      {
+        "paused": false,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 4.583501
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "kind": "service-keyboard-final",
+    "active": "内容策略",
+    "opacity": "1"
+  },
+  {
+    "kind": "form-empty",
+    "invalid": 3
+  },
+  {
+    "kind": "form-valid",
+    "status": "校验通过。这是本地演示，消息未发送，也未保存。"
+  },
+  {
+    "kind": "stack-start",
+    "cards": [
+      {
+        "opacity": "0.85",
+        "transform": "none"
+      },
+      {
+        "opacity": "0.999074",
+        "transform": "matrix(1, 0, 0, 1, 0, 493)"
+      },
+      {
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 986)"
+      }
+    ],
+    "scrollY": 4656.66650390625,
+    "section": 30.14583396911621
+  },
+  {
+    "kind": "stack-mid",
+    "cards": [
+      {
+        "opacity": "0.85",
+        "transform": "matrix(0.92, 0, 0, 0.92, 0, 0)"
+      },
+      {
+        "opacity": "0.975908",
+        "transform": "matrix(0.96, 0, 0, 0.96, 0, 80)"
+      },
+      {
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 160)"
+      }
+    ],
+    "scrollY": 5988.66650390625,
+    "section": -1301.854248046875
+  },
+  {
+    "kind": "tablet-home",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 1180,
+    "path": "/",
+    "scrollWidth": 819,
+    "videos": [
+      {
+        "paused": false,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 4.300273
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 834
+  },
+  {
+    "kind": "tablet-case-next",
+    "title": "PURELY PLANTS 增长计划"
+  },
+  {
+    "kind": "tablet-case-next-passed",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "本杰明卡瓦隆",
+    "hash": "#expertise",
+    "height": 1180,
+    "path": "/",
+    "scrollWidth": 819,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 834,
+    "title": "DECORLY 内容与品牌影响力"
+  },
+  {
+    "kind": "mobile-home",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 844,
+    "path": "/",
+    "scrollWidth": 375,
+    "videos": [
+      {
+        "paused": false,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 4.419293
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 390
+  },
+  {
+    "kind": "mobile-menu-case-regression",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "本杰明卡瓦隆",
+    "hash": "#case-studies",
+    "height": 844,
+    "path": "/",
+    "scrollWidth": 375,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0.993809
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 390,
+    "title": "DECORLY 内容与品牌影响力",
+    "shade": "none"
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 1000,
+    "path": "/",
+    "scrollWidth": 1425,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "BenjamenCavalon",
+    "hash": "",
+    "height": 1000,
+    "path": "/en",
+    "scrollWidth": 1425,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 0,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 0,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "隐私政策",
+    "hash": "",
+    "height": 1000,
+    "path": "/privacy",
+    "scrollWidth": 1425,
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "PRIVACY POLICY",
+    "hash": "",
+    "height": 1000,
+    "path": "/en/privacy",
+    "scrollWidth": 1425,
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "更新记录",
+    "hash": "",
+    "height": 1000,
+    "path": "/changelog",
+    "scrollWidth": 1425,
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 1425,
+    "h1": "CHANGELOG",
+    "hash": "",
+    "height": 1000,
+    "path": "/en/changelog",
+    "scrollWidth": 1425,
+    "videos": [],
+    "width": 1440
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 1180,
+    "path": "/",
+    "scrollWidth": 819,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 834
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "BenjamenCavalon",
+    "hash": "",
+    "height": 1180,
+    "path": "/en",
+    "scrollWidth": 819,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 834
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "隐私政策",
+    "hash": "",
+    "height": 1180,
+    "path": "/privacy",
+    "scrollWidth": 819,
+    "videos": [],
+    "width": 834
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "PRIVACY POLICY",
+    "hash": "",
+    "height": 1180,
+    "path": "/en/privacy",
+    "scrollWidth": 819,
+    "videos": [],
+    "width": 834
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "更新记录",
+    "hash": "",
+    "height": 1180,
+    "path": "/changelog",
+    "scrollWidth": 819,
+    "videos": [],
+    "width": 834
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 819,
+    "h1": "CHANGELOG",
+    "hash": "",
+    "height": 1180,
+    "path": "/en/changelog",
+    "scrollWidth": 819,
+    "videos": [],
+    "width": 834
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 844,
+    "path": "/",
+    "scrollWidth": 375,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 0,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 390
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "BenjamenCavalon",
+    "hash": "",
+    "height": 844,
+    "path": "/en",
+    "scrollWidth": 375,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 390
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "隐私政策",
+    "hash": "",
+    "height": 844,
+    "path": "/privacy",
+    "scrollWidth": 375,
+    "videos": [],
+    "width": 390
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "PRIVACY POLICY",
+    "hash": "",
+    "height": 844,
+    "path": "/en/privacy",
+    "scrollWidth": 375,
+    "videos": [],
+    "width": 390
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "更新记录",
+    "hash": "",
+    "height": 844,
+    "path": "/changelog",
+    "scrollWidth": 375,
+    "videos": [],
+    "width": 390
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 375,
+    "h1": "CHANGELOG",
+    "hash": "",
+    "height": 844,
+    "path": "/en/changelog",
+    "scrollWidth": 375,
+    "videos": [],
+    "width": 390
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 305,
+    "h1": "本杰明卡瓦隆",
+    "hash": "",
+    "height": 844,
+    "path": "/",
+    "scrollWidth": 305,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 0,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 0,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 320
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 305,
+    "h1": "BenjamenCavalon",
+    "hash": "",
+    "height": 844,
+    "path": "/en",
+    "scrollWidth": 305,
+    "videos": [
+      {
+        "paused": true,
+        "ready": 0,
+        "src": "/templates/benjamen/media/header%20right%20video.mp4",
+        "time": 0
+      },
+      {
+        "paused": true,
+        "ready": 4,
+        "src": "/templates/benjamen/media/about%20me%2002.mp4",
+        "time": 0
+      }
+    ],
+    "width": 320
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 305,
+    "h1": "隐私政策",
+    "hash": "",
+    "height": 844,
+    "path": "/privacy",
+    "scrollWidth": 305,
+    "videos": [],
+    "width": 320
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 305,
+    "h1": "PRIVACY POLICY",
+    "hash": "",
+    "height": 844,
+    "path": "/en/privacy",
+    "scrollWidth": 305,
+    "videos": [],
+    "width": 320
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 305,
+    "h1": "更新记录",
+    "hash": "",
+    "height": 844,
+    "path": "/changelog",
+    "scrollWidth": 305,
+    "videos": [],
+    "width": 320
+  },
+  {
+    "kind": "route",
+    "broken": [],
+    "clientWidth": 305,
+    "h1": "CHANGELOG",
+    "hash": "",
+    "height": 844,
+    "path": "/en/changelog",
+    "scrollWidth": 305,
+    "videos": [],
+    "width": 320
+  },
+  {
+    "kind": "locale-preserves-query-hash",
+    "url": "http://127.0.0.1:43518/?campaign=demo#contacts"
+  },
+  {
+    "kind": "marquee-paused",
+    "state": "paused",
+    "transform": "matrix(1, 0, 0, 1, -492.686, 0)"
+  },
+  {
+    "kind": "marquee-resumed",
+    "state": "running",
+    "transform": "matrix(1, 0, 0, 1, -492.686, 0)"
+  },
+  {
+    "kind": "locale-preserves-query-hash-passed",
+    "url": "http://127.0.0.1:43518/en?campaign=demo#contacts"
+  }
+]

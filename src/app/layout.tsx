@@ -1,4 +1,4 @@
 import type { ReactNode } from 'react'
 import './globals.css'
 export const metadata = { title: 'Benjamen', description: '品牌增长与社交媒体营销 · 双语响应式作品集' }
-export default function Layout({ children }: { children: ReactNode }) { return <html lang="zh-CN"><body>{children}</body></html> }
+export default function Layout({ children }: { children: ReactNode }) { return <html lang="zh-CN" data-scroll-behavior="smooth"><body>{children}</body></html> }

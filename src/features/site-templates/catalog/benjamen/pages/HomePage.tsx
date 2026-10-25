@@ -12,5 +12,5 @@ import { Contact } from '../components/Contact'
 import { CTA } from '../components/CTA'
 export default function HomePage(props: SiteTemplatePageProps) {
   const locale = props.locale || 'zh'
-  return <Shell {...props}><Hero {...props} /><About {...props} /><Expertise locale={locale} /><Works {...props} /><Cases locale={locale} /><Results locale={locale} /><Testimonials locale={locale} /><Experience locale={locale} /><Contact locale={locale} /><CTA {...props} /></Shell>
+  return <Shell {...props}><Hero {...props} /><About {...props} /><Expertise locale={locale} homeHref={props.basePath || '/'} /><Works {...props} /><Cases locale={locale} homeHref={props.basePath || '/'} /><Results locale={locale} /><Testimonials locale={locale} homeHref={props.basePath || '/'} /><Experience locale={locale} /><Contact locale={locale} /><CTA {...props} /></Shell>
 }

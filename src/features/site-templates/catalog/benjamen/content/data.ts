@@ -8,7 +8,7 @@ export const copy = {
   intro: text('以内容策略、社群互动和社交媒体营销，帮助品牌持续成长。', 'Helping brands grow through strategic content, audience engagement, and social media marketing.'),
   available: text('欢迎洽谈新项目', 'Available for new projects'), book: text('预约项目沟通', 'Book a Discovery Call'), rating: text('获得 25+ 位客户的认可', 'Rated by 25+ happy clients'),
   promise: text('通过内容、社交媒体策略和效果营销驱动增长', 'DRIVING GROWTH THROUGH CONTENT, SOCIAL MEDIA STRATEGY, AND PERFORMANCE MARKETING.'),
-  about: text('我以策略为起点，以内容建立连接，帮助品牌在社交媒体上找到自己的声音，将每一次互动转化为真实、持久的增长。', 'I help brands grow through strategic content, meaningful engagement, and data-driven social media marketing. From building brand presence to driving measurable growth, I create strategies that connect with audiences and deliver results.'),
+  about: text('我以策略为起点，以内容建立连接，帮助品牌在社交媒体上找到自己的声音，将每一次互动转化为真实、持久的增长。', 'I help brands grow through strategic content, social media marketing, and audience engagement—creating systems that turn visibility into measurable growth.'),
   trust: text('品牌、初创团队和个人创作者信任我的策略，一起提升触达、互动和线上影响力。', 'Brands, startups, and personal brands have trusted my strategies to improve reach, engagement, and online visibility.'),
   metrics: text('追踪表现、衡量互动，从社交媒体数据和受众行为中发现新的增长机会。', 'Track performance, measure engagement, and uncover growth opportunities through data-driven social media insights and audience behavior analysis.'),
   contact: text('一起打造连接受众、强化品牌，并带来可衡量增长的社交媒体策略。', 'Let’s create a social media strategy that connects with your audience, strengthens your brand, and delivers measurable growth.'),
