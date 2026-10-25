@@ -1,0 +1,65 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "benjamen",
+  "version": "1.0.0",
+  "gitUrl": "https://github.com/weelume/benjamen-template",
+  "name": "Benjamen · 品牌增长作品集",
+  "localizedNames": {
+    "en": "Benjamen · Social Media Portfolio"
+  },
+  "sceneId": "personal-homepage",
+  "listed": false,
+  "tags": [
+    "个人作品集",
+    "社交媒体",
+    "视频",
+    "滚动叠卡",
+    "双语"
+  ],
+  "summary": "黑白极简社交媒体营销作品集，包含人物视频、内容策略、作品、滚动叠卡案例、增长数据、客户评价、工作经历与本地联系表单。",
+  "accentColor": "#ff5a36",
+  "cover": null,
+  "screenshots": [],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "作品集",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "privacy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy Policy"
+          }
+        },
+        {
+          "slug": "changelog",
+          "title": "更新记录",
+          "localizedTitles": {
+            "en": "Changelog"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "代码、参考素材和字体许可分开记录；参考素材的商业再分发许可尚未确认。",
+    "redistributionAllowed": false
+  }
+}

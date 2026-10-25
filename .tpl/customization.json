@@ -1,0 +1,70 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌配置",
+      "description": "修改品牌、邮箱与年份",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/benjamen/config/brand.ts",
+          "kind": "file",
+          "purpose": "独立品牌配置"
+        }
+      ],
+      "constraints": [
+        "不写入宿主品牌和接入记录"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "同步修改中文和英文内容",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/benjamen/content/data.ts",
+          "kind": "file",
+          "purpose": "内容与集合"
+        }
+      ],
+      "constraints": [
+        "双语保持结构一致，案例切换边界从集合长度推导"
+      ],
+      "checks": [
+        "typecheck",
+        "test"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题与动效",
+      "description": "修改设计令牌与公共交互",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/benjamen/theme.css",
+          "kind": "file",
+          "purpose": "主题、响应式、降动态"
+        },
+        {
+          "path": "src/features/site-templates/catalog/benjamen/components",
+          "kind": "directory",
+          "purpose": "区块与动效"
+        }
+      ],
+      "constraints": [
+        "保留键盘访问和减少动态效果设置"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "src": "assets/desktop-home.webp",
+    "alt": "Benjamen desktop home",
+    "device": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/desktop-expertise.webp",
+    "alt": "Benjamen desktop expertise",
+    "device": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/desktop-work.webp",
+    "alt": "Benjamen desktop work",
+    "device": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/desktop-contact.webp",
+    "alt": "Benjamen desktop contact",
+    "device": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/tablet-home.webp",
+    "alt": "Benjamen tablet home",
+    "device": "tablet",
+    "width": 834,
+    "height": 1180,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/tablet-expertise.webp",
+    "alt": "Benjamen tablet expertise",
+    "device": "tablet",
+    "width": 834,
+    "height": 1180,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/tablet-work.webp",
+    "alt": "Benjamen tablet work",
+    "device": "tablet",
+    "width": 834,
+    "height": 1180,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/tablet-contact.webp",
+    "alt": "Benjamen tablet contact",
+    "device": "tablet",
+    "width": 834,
+    "height": 1180,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/mobile-home.webp",
+    "alt": "Benjamen mobile home",
+    "device": "mobile",
+    "width": 390,
+    "height": 844,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/mobile-expertise.webp",
+    "alt": "Benjamen mobile expertise",
+    "device": "mobile",
+    "width": 390,
+    "height": 844,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/mobile-work.webp",
+    "alt": "Benjamen mobile work",
+    "device": "mobile",
+    "width": 390,
+    "height": 844,
+    "surfaceId": "site",
+    "pageSlug": ""
+  },
+  {
+    "src": "assets/mobile-contact.webp",
+    "alt": "Benjamen mobile contact",
+    "device": "mobile",
+    "width": 390,
+    "height": 844,
+    "surfaceId": "site",
+    "pageSlug": ""
+  }
+]
